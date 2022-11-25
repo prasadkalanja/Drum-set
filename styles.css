@@ -1,0 +1,61 @@
+h1 {
+  color: red;
+}
+body{
+text-align: center;
+background-color: #283149
+}
+
+h1{
+  font-size: 5rem;
+  color:#DBEDF3;
+  font-family: "Arvo",cursive;
+  text-shadow: 3px 0 #DA0463;
+}
+.drum{
+  padding: 3rem;
+  font-size: 2rem;
+  margin-right: 2rem;
+  border-radius: 1rem;
+  border-color: #DBEDF3;
+  border-width: 1rem;
+color: red;
+font-family: "Arvo",cursive;
+text-shadow: 2px 0 #DA0463;
+}
+
+@media only screen and (min-width:321px) and (max-width:768px){
+  .drum{
+    margin-bottom: 1rem;
+    margin-top: 2rem;
+  }
+}
+
+footer{
+color: #DBEDF3;
+font-family: sans-serif;
+}
+.w{
+  background-image: url("image/w.png");
+}
+.a{
+  background-image: url("image/a.png");
+}
+.s{
+  background-image: url("image/s.jpg");
+}
+.d{
+  background-image: url("image/d.jpg");
+}
+.j{
+  background-image: url("image/j.jpg");
+}
+.k{
+  background-image: url("image/k.jpg");
+}
+.l{
+  background-image: url("image/extra.jpg");
+}
+.set{
+  margin: 10% auto;
+}
